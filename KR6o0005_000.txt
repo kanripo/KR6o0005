@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 方便心論
+#+DATE: 2015-08-30 20:59:13.290175
+#+PROPERTY: JUAN 0
